@@ -1,0 +1,3 @@
+UserSettings:
+  is_smote: False
+  scaler: MinMaxScaler # Either MinMaxScaler or StandardScaler
